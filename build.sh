@@ -1,0 +1,1 @@
+rustc $1 --out-dir=dist/
